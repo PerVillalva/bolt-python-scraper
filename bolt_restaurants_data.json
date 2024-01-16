@@ -1,0 +1,345 @@
+[
+    {
+        "name": "Gustico",
+        "address": "Table ulica 2, Split",
+        "phone": "+385800303303",
+        "rating": "4.8",
+        "reviews": null
+    },
+    {
+        "name": "Fast food Ja&Ja",
+        "address": "Slobode ulica 5, 21000, Split",
+        "phone": "+38521249390",
+        "rating": "4.5",
+        "reviews": null
+    },
+    {
+        "name": "Mala Ku\u0107a",
+        "address": "Put Firula 37, Split",
+        "phone": "+385914444223",
+        "rating": "4.4",
+        "reviews": null
+    },
+    {
+        "name": "KFC Split - City Centar One",
+        "address": "Vukovarska ul. 207, Split",
+        "phone": "+385993818491",
+        "rating": "4.4",
+        "reviews": null
+    },
+    {
+        "name": "Ist & Pit",
+        "address": "Slobode ulica 46, Split",
+        "phone": "+385993937232",
+        "rating": "4.6",
+        "reviews": null
+    },
+    {
+        "name": "St - Spiza",
+        "address": "Ulica Zrinsko Frankopanska 58, Split",
+        "phone": "+38521380736",
+        "rating": "4.6",
+        "reviews": null
+    },
+    {
+        "name": "Bajamina",
+        "address": "Domovinskog rata 11, Split",
+        "phone": "+385976702432",
+        "rating": "4.8",
+        "reviews": null
+    },
+    {
+        "name": "Bajamina 2",
+        "address": "Vinkova\u010dka 21, Split",
+        "phone": "+385976622235",
+        "rating": "4.8",
+        "reviews": null
+    },
+    {
+        "name": "Milky Split",
+        "address": "Put Firula 37, Split",
+        "phone": "+385914444223",
+        "rating": "4.3",
+        "reviews": null
+    },
+    {
+        "name": "Pizza Piccola",
+        "address": "Vran\u010di\u0107eva 1, Split",
+        "phone": "+385993675352",
+        "rating": "4.5",
+        "reviews": null
+    },
+    {
+        "name": "Fast Food Bublica",
+        "address": "Matice hrvatske 13, Split",
+        "phone": "+385955058566",
+        "rating": "4.2",
+        "reviews": null
+    },
+    {
+        "name": "Street Food - Old House",
+        "address": "Bana Jela\u010di\u0107a 13, Split",
+        "phone": "+385916185621",
+        "rating": "4.6",
+        "reviews": null
+    },
+    {
+        "name": "Pizzeria Mirakul",
+        "address": "Dubrova\u010dka ulica 20, Split",
+        "phone": "+38521489025",
+        "rating": "4.6",
+        "reviews": null
+    },
+    {
+        "name": "Pe\u010denjarnica Galina",
+        "address": "Hrvatske mornarice bb, Split",
+        "phone": "+385995722999",
+        "rating": "4.5",
+        "reviews": null
+    },
+    {
+        "name": "Pizzeria Galija",
+        "address": "Ton\u010di\u0107eva 12, Split",
+        "phone": "+38521347932",
+        "rating": "4.5",
+        "reviews": null
+    },
+    {
+        "name": "Capitano Pizza Food",
+        "address": "Put Brodarica 4, Split",
+        "phone": "+385995414444",
+        "rating": "4.2",
+        "reviews": null
+    },
+    {
+        "name": "Pala\u010dinke.hr - Vukovarska",
+        "address": "Vukovarska 97, Split",
+        "phone": "+385921829412",
+        "rating": "4.8",
+        "reviews": null
+    },
+    {
+        "name": "Pizzeria Bar Renato",
+        "address": "\u0160etali\u0161te Kalafata 2",
+        "phone": "+38521571271",
+        "rating": "4.5",
+        "reviews": null
+    },
+    {
+        "name": "Morski \u010covik",
+        "address": "Kri\u017eine 3, Split",
+        "phone": "+38521463016",
+        "rating": "4.3",
+        "reviews": null
+    },
+    {
+        "name": "Da'Mar at Marvie Hotel",
+        "address": "Peri\u010di\u0107eva ulica 1, Split",
+        "phone": "+38521279888",
+        "rating": "4.6",
+        "reviews": null
+    },
+    {
+        "name": "Fast Food Buco",
+        "address": "Savska 13, Split",
+        "phone": "+385976736738",
+        "rating": "4.6",
+        "reviews": null
+    },
+    {
+        "name": "Konoba Barkarola",
+        "address": "\u0160etali\u0161te Kalafata 2, Split",
+        "phone": "+38521611005",
+        "rating": "4.5",
+        "reviews": null
+    },
+    {
+        "name": "Para di \u0160oto",
+        "address": "Ulica Andrije Buvine 2, Split",
+        "phone": "+38521586777",
+        "rating": "4.3",
+        "reviews": null
+    },
+    {
+        "name": "McDonald's Polji\u010dka",
+        "address": "Polji\u010dka 71, split",
+        "phone": "+38521494995",
+        "rating": "4.6",
+        "reviews": null
+    },
+    {
+        "name": "McDonald's Split 2",
+        "address": "Put brodarice 6, split",
+        "phone": "+38521493320",
+        "rating": "4.5",
+        "reviews": null
+    },
+    {
+        "name": "Trattoria Tinel",
+        "address": "Tomi\u0107a stine 1, Split",
+        "phone": "+38521355197",
+        "rating": "4.3",
+        "reviews": null
+    },
+    {
+        "name": "Street Food Bublica",
+        "address": "Matice hrvatske 13, Split",
+        "phone": "+385955058566",
+        "rating": "4.0",
+        "reviews": null
+    },
+    {
+        "name": "Pizza Cut Split",
+        "address": "Petra Ili\u010da \u010cajkovskog 5",
+        "phone": "+38521347333",
+        "rating": "4.5",
+        "reviews": null
+    },
+    {
+        "name": "Momo's - Asian Multi Kitchen",
+        "address": "Polji\u010dka cesta 71, Split",
+        "phone": "+385955583014",
+        "rating": "4.2",
+        "reviews": null
+    },
+    {
+        "name": "Sushi Corner a la Carte",
+        "address": "Polji\u010dka cesta 71, Split",
+        "phone": "+385955583014",
+        "rating": "3.9",
+        "reviews": null
+    },
+    {
+        "name": "Konoba Dujkin Dvor",
+        "address": "Trumbi\u0107eva obala 6, Split",
+        "phone": "+38521355364",
+        "rating": "4.6",
+        "reviews": null
+    },
+    {
+        "name": "TIN Food & Wine",
+        "address": "Ul. Josipa Jovi\u0107a 93, 21000, Split",
+        "phone": "+38521314063",
+        "rating": "4.1",
+        "reviews": null
+    },
+    {
+        "name": "Submarine Burger - Split",
+        "address": "Polji\u010dka 39, split",
+        "phone": "+38521213743",
+        "rating": "4.4",
+        "reviews": null
+    },
+    {
+        "name": "Pizzeria Bar Renato - Bakine Pizze",
+        "address": "\u0160etali\u0161te Kalafata 2",
+        "phone": "+38521571271",
+        "rating": "4.8",
+        "reviews": null
+    },
+    {
+        "name": "The Food Shack",
+        "address": "Trgova\u010dki centar Mall of Split, Ul. Josipa Jovi\u0107a 93, 21000, Split",
+        "phone": "+38521258912",
+        "rating": "4.0",
+        "reviews": null
+    },
+    {
+        "name": "M&N Food",
+        "address": "Dubrova\u010dka 65, Split",
+        "phone": "+38521789799",
+        "rating": "4.5",
+        "reviews": null
+    },
+    {
+        "name": "Submarine Burger - Mall of Split",
+        "address": "Ulica Josipa Jovi\u0107a 93, 21 000 Split",
+        "phone": "+38521213752",
+        "rating": "4.3",
+        "reviews": null
+    },
+    {
+        "name": "Submarine Burger Split - Centar",
+        "address": "Morpurgova poljana 2, split",
+        "phone": "+38521272960",
+        "rating": "4.1",
+        "reviews": null
+    },
+    {
+        "name": "Chicken Box",
+        "address": "Ul. kralja Tomislava 3, 21000, Split",
+        "phone": "+38598403444",
+        "rating": "4.4",
+        "reviews": null
+    },
+    {
+        "name": "McDonald's City Center Split",
+        "address": "Vukovarska 207, split",
+        "phone": "+38521420692",
+        "rating": "4.4",
+        "reviews": null
+    },
+    {
+        "name": "No. 11. Food & Bar",
+        "address": "Biha\u0107ka 2a, 21000, Split",
+        "phone": "+38521240215",
+        "rating": null,
+        "reviews": null
+    },
+    {
+        "name": "Mandrill's Barbarossa",
+        "address": "\u0160etali\u0161te Petra Preradovi\u0107a, 2 Split",
+        "phone": "+385955211050",
+        "rating": null,
+        "reviews": null
+    },
+    {
+        "name": "Fast Food Donatelo",
+        "address": "Kroz Smrde\u010dac 39,21000 Split",
+        "phone": "+385996788299",
+        "rating": null,
+        "reviews": null
+    },
+    {
+        "name": "Kod Pjera",
+        "address": "\u0160oltanska 32, Split 21000",
+        "phone": "+385958445545",
+        "rating": null,
+        "reviews": null
+    },
+    {
+        "name": "Balkan Pharm CBD Shop Vukovarska",
+        "address": "Vukovarska 97, Split",
+        "phone": "+385918993698",
+        "rating": null,
+        "reviews": null
+    },
+    {
+        "name": "SALT Gluten-Free sandwich and grill",
+        "address": "Sinjska 7A, 21000 Split",
+        "phone": "+385953322244",
+        "rating": null,
+        "reviews": null
+    },
+    {
+        "name": "SALT Gluten-Free pizzeria",
+        "address": "Slavi\u0107eva 45, 21000 Split",
+        "phone": "+385953322244",
+        "rating": null,
+        "reviews": null
+    },
+    {
+        "name": "Denis igra\u010dke - Mall of Split",
+        "address": "Ul. Josipa Jovi\u0107a 93, 21000 Split",
+        "phone": "+38521681842",
+        "rating": null,
+        "reviews": null
+    },
+    {
+        "name": "Denis igra\u010dke - Salona Mall Solin",
+        "address": "Ul. A.G. Mato\u0161a 10, 21210 Solin",
+        "phone": "+38521444775",
+        "rating": null,
+        "reviews": null
+    }
+]
